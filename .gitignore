@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+dist/
+
+ecPrivateKey.pem
+myKey.pem
+
+src/custom.formatters/
+!src/custom.formatters/.gitkeep
